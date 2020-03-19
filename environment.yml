@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - numpy
+  - jupyterlab>=2.0.1
   - matplotlib-base>=2.2.2
   - ipympl=0.5.6
   - widgetsnbextension
